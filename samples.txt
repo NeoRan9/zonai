@@ -1138,9 +1138,9 @@ D
 
 # faron/wall
 NJBHNJBHNJBHNJBHN
-?MUSLMUS?MUS?MUSL
- HNWCDNW D L HNWC
-  L YR ? R M  L Y
+UMUSLMUSLMUSLMUSL
+ HNWCDNW D J HNWC
+  L YR W R M  L Y
   C  W D      C
      T
 
@@ -1313,7 +1313,7 @@ W L D U
 # dragonhead-island/door
 ring
 
-MNTRJH    RJMDTCWHMBUM?    LMUB?HWCTDMJR    HJRTNM
+MNTRJH    RJMDTCWHMBUML    LMUBMHWCTDMJR    HJRTNM
 
 # dragonhead-island/mask-receptacle
 L
@@ -1333,5 +1333,12 @@ J UJRL
 B WBYM
 S  STU
 L   HW
+
+# mineru-construct/neck
+ring
+....MUJHBSCDRLUMBNW....
+
+#mineru-construct/attachments
+HYLUWN
 
 // This is very incomplete!
