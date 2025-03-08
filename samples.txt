@@ -1,4 +1,13 @@
-# title/poem-1
+# title/poem-1/rauru-secret-stones
+JSJ
+HNB
+NUS
+UMU
+MLM
+NJS
+U
+
+# title/poem-2/rauru-sonia
 HRD
 YJU
 NHM
@@ -7,7 +16,7 @@ RUR
 YBL
   U
 
-# title/poem-2
+# title/poem-3/ganon-steals-stone
 NTH
 UHN
 LJD
@@ -15,6 +24,32 @@ RBR
 JYU
 DMJ
 U L
+
+#title/poem-4/zelda-master-sword
+HWD
+MSJ
+CUD
+BBR
+WDL
+STB
+ U
+
+#title/poem-5/dragon-left
+RBW
+CJY
+STH
+RUR
+BSJ
+UBD
+NC
+
+#title/poem-6/dragon-right
+LJT
+CYU
+DWB
+YCR
+UNW
+DRD
 
 # temple-of-time/flying-spike
 SY
